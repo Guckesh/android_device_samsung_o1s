@@ -7,12 +7,16 @@ vendor/etc/floating_feature.xml
 vendor/etc/mixer_gains.xml
 vendor/etc/mixer_usb_default.xml
 vendor/lib/librecordalive.so
+vendor/lib/lib_SoundBooster_ver1050.so
+vendor/lib/libspatializerparamstorage.so
 vendor/lib/soundfx/libaudiosaplus_sec.so
 vendor/lib/soundfx/libsamsungSoundbooster_plus.so
 vendor/lib/soundfx/libswdap.so
 vendor/lib64/soundfx/libaudiosaplus_sec.so
 vendor/lib64/soundfx/libsamsungSoundbooster_plus.so
 vendor/lib64/soundfx/libswdap.so
+vendor/lib64/lib_SoundBooster_ver1050.so
+vendor/lib64/libspatializerparamstorage.so
 
 # Audio firmware
 vendor/firmware/APBiBF_AUDIO_SLSI.bin
