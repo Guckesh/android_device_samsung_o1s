@@ -35,6 +35,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/init/vendor_boot_module_order.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/init.reorder.exynos2100.cfg
 
+# Overlays
+PRODUCT_PACKAGES += \
+    SystemUIResO1s
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
