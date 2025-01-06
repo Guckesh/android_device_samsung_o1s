@@ -40,3 +40,7 @@ PRODUCT_MODEL := SM-G991B
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    RisingChipset="SnapDragon 8 Gen 2" \
+    RisingMaintainer="Guckesh M"
